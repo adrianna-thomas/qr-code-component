@@ -48,6 +48,7 @@ body {
   text-align: center;
   padding: 3%;
   font-weight: 700;
+  font-size: 1.5rem;
 }
 .card p {
   color: var(--Grayish-blue);
