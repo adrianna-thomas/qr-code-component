@@ -54,16 +54,10 @@ Learned how to create variables for future use in the CSS of the project.
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
-### Continued development
+## Useful resources
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://stackoverflow.com/questions/31697269/center-divs-in-body-horizontally-and-vertically-with-flexbox) - This helped me for centering the component on the page vertically and horizontally. 
-- [Example resource 2](https://www.youtube.com/watch?v=5BBYPntB-GY&ab_channel=MrCoder) - This video helped me with cleaning up my html. And seeing how another person did the project. 
+- [1](https://stackoverflow.com/questions/31697269/center-divs-in-body-horizontally-and-vertically-with-flexbox) - This helped me for centering the component on the page vertically and horizontally. 
+- [2](https://www.youtube.com/watch?v=5BBYPntB-GY&ab_channel=MrCoder) - This video helped me with cleaning up my html. And seeing how another person did the project. 
 
 
 ## Author
