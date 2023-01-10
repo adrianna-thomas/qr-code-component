@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 
 ## Overview
@@ -64,10 +62,3 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 - Code Pen Website - [Adrianna Thomas(https://codepen.io/adriannathomas/)
 - Frontend Mentor - [@adrianna-thomas](https://www.frontendmentor.io/profile/adrianna-thomas)
-
-
-## Acknowledgments
-
-
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
